@@ -1,4 +1,4 @@
-Perfil para activadades académicas de ENTI-UB.
+# Perfil para activadades académicas de ENTI-UB.
 
 <!---
 rodrigoschaefer-enti/rodrigoschaefer-enti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
